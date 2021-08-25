@@ -7,7 +7,6 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-<<<<<<< HEAD
     "axios": "^0.21.1",
     "better-scroll": "^1.13.2",
     "core-js": "^3.6.5",
@@ -16,18 +15,11 @@
     "vue-lazyload": "^1.3.3",
     "vue-router": "^3.5.2",
     "vuex": "^3.6.2"
-=======
-    "core-js": "^3.6.5",
-    "vue": "^2.6.11"
->>>>>>> 05c07660bdc66b7370a232a05453e5ac6815b61d
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
-<<<<<<< HEAD
     "postcss-px-to-viewport": "^1.1.1",
-=======
->>>>>>> 05c07660bdc66b7370a232a05453e5ac6815b61d
     "vue-template-compiler": "^2.6.11"
   }
 }
